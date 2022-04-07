@@ -1,4 +1,4 @@
-import random
+import random # Imports random module
 print("""Hey, do you wanna play rock, paper, scissors? The rules are simple: 
 Pick either rock, paper or scissors - rock beats scissors, scissors beats paper and paper beats rock.
 The computer will pick another at random and depending on what you pick you win, lose or tie.""")
